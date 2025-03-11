@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Dave</h1>
+        <h1>Fucking Dave is awesome</h1>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
